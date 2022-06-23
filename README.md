@@ -1,24 +1,19 @@
-# photo_gallery_vue
+# DevProjects - Image search gallery
 
-## Project setup
-```
-npm install
-```
+This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
+Find the project requirements here: [Image search gallery](https://www.codementor.io/projects/web/image-search-gallery-au63vo9tfr)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tech/framework used
+Built with Vue.js, Axios and the Unsplash API
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Installation
+ - clone this repo or download the source code
+ - run npm install to download the modules
+ - get an access & secret key from Unsplash and substitute it
+ - then run npm run serve to run the project
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
